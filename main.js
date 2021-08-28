@@ -1,3 +1,6 @@
+ /* Developer
+https://scharss.github.io/ */
+
 class articulo {
     constructor(nombrearticulo, precioarticulo, carticulo, totalarticulo, costoarticulo, borrararticulo, numeroarticulo) {
         this.nombrearticulo = nombrearticulo;
@@ -195,7 +198,7 @@ function fecha() {
 
 
 function restear() {
-    /* location.href = 'https://scharss.github.io/ttbb/'*/
+   
     location.href = 'index.html'
 
 }
